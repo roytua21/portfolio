@@ -23,7 +23,7 @@
 			"file": "docs/cv.pdf",
 			"icon": "fas fa-file-pdf"
 	},
-"_comment" :   "skills": [
+"skills": [
         {"name": "Front-end IC Design", "icon": "fas fa-microchip", "level": 70},
         {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
         {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
