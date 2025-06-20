@@ -29,5 +29,6 @@
         {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
 	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 90},
         {"name": "Web Programming", "icon": "fab fa-js", "level": 85},
-	{"name": "Project Management", "icon": "fas fa-list-check", "level": 95},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 95}
     ] 
+}
