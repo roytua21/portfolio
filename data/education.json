@@ -1,7 +1,7 @@
 [
     {
         "university": "SMK N 7 Semarang",
-		"logo": "images/ntust-logo.png",
+		"logo": "images/logo-smkn7.png",
         "major": "Vocasional High School in Elektronics engineering",
         "year": "2017 - 2021",
    "educationSMK": "Saya lulusan SMK Negeri 7 Semarang tahun 2021 dari jurusan Teknik Elektronika Daya dan Komunikasi. Di sana saya belajar dasar-dasar kelistrikan, elektronika daya, dan sistem komunikasi, yang jadi bekal penting untuk saya lanjut ke dunia teknik dan pengembangan teknologi."
@@ -9,7 +9,7 @@
     },
     {
         "university": "Politeknik Negeri Semarang",
-		"logo": "images/undip-logo.png",
+		"logo": "images/polines-logo.png",
         "major": "Bachelor of applied science (B.A.Sc.) in Electronic engineering technology",
         "year": "2022 - 2026",
         "description": "IPK 3,50 dari skala 4,00; khususnya dalam pengembangan sistem otomatisasi, pemrograman perangkat keras, dan penerapan teknologi IoT secara langsung di lapangan."
