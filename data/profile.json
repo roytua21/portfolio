@@ -34,20 +34,77 @@
 	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 90},
 	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 85}
     ] 
-	## 🛠️ Skills & Expertise
-
-| Skill                   | Level |  
-|------------------------|--------|
-| ❤️ **Biomedical Engineering**      | 🔥🔥🔥🔥½ (90%) |
-| 🔌 **Front-end IC Design**         | 🔥🔥🔥½ (70%) |
-| 📡 **Internet of Things (IoT)**    | 🔥🔥🔥🔥½ (90%) |
-| 🖥️ **Hardware Design**             | 🔥🔥🔥🔥½ (90%) |
-| 💻 **Hardware Programming (C/C++)**| 🔥🔥🔥🔥½ (90%) |
-| 🌐 **Web Programming (HTML/JS)**   | 🔥🔥🔥🔥¼ (85%) |
-| 📋 **Project Management**          | 🔥🔥🔥🔥🔥 (95%) |
-| ✍️ **Academic Writing**            | 🔥🔥🔥🔥½ (90%) |
-| 🌍 **Foreign Languages**           | 🔥🔥🔥🔥¼ (85%) |
-
-> 🔥 = 20%, so 4.5 flames ≈ 90%
-
+"skills": {
+  "Engineering": [
+    {
+      "name": "Biomedical Engineering",
+      "icon": "fas fa-heart-pulse",
+      "level": 90,
+      "label": "Advanced",
+      "bar": "█████████░"
+    },
+    {
+      "name": "Front-end IC Design",
+      "icon": "fas fa-microchip",
+      "level": 70,
+      "label": "Intermediate",
+      "bar": "███████░░░"
+    },
+    {
+      "name": "Hardware Design",
+      "icon": "fas fa-desktop",
+      "level": 90,
+      "label": "Advanced",
+      "bar": "█████████░"
+    }
+  ],
+  "Programming": [
+    {
+      "name": "Hardware Programming",
+      "icon": "fas fa-c",
+      "level": 90,
+      "label": "Advanced",
+      "bar": "█████████░"
+    },
+    {
+      "name": "Web Programming",
+      "icon": "fab fa-js",
+      "level": 85,
+      "label": "Advanced",
+      "bar": "████████░░"
+    }
+  ],
+  "Soft Skills": [
+    {
+      "name": "Project Management",
+      "icon": "fas fa-list-check",
+      "level": 95,
+      "label": "Expert",
+      "bar": "██████████"
+    },
+    {
+      "name": "Academic Writing",
+      "icon": "fas fa-pen",
+      "level": 90,
+      "label": "Advanced",
+      "bar": "█████████░"
+    },
+    {
+      "name": "Foreign Languages",
+      "icon": "fas fa-language",
+      "level": 85,
+      "label": "Advanced",
+      "bar": "████████░░"
+    }
+  ],
+  "Internet of Things": [
+    {
+      "name": "IoT Systems",
+      "icon": "fas fa-wifi",
+      "level": 90,
+      "label": "Advanced",
+      "bar": "█████████░"
+    }
+  ]
 }
+
