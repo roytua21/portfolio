@@ -4,7 +4,7 @@
 		"logo": "images/logo-smkn7.png",
         "major": "Vocasional High School in Elektronics engineering",
         "year": "2017 - 2021",
-   "educationSMK": "Saya lulusan SMK Negeri 7 Semarang tahun 2021 dari jurusan Teknik Elektronika Daya dan Komunikasi. Di sana saya belajar dasar-dasar kelistrikan, elektronika daya, dan sistem komunikasi, yang jadi bekal penting untuk saya lanjut ke dunia teknik dan pengembangan teknologi."
+   	"description": "Saya lulusan SMK Negeri 7 Semarang tahun 2021 dari jurusan Teknik Elektronika Daya dan Komunikasi. Di sana saya belajar dasar-dasar kelistrikan, elektronika daya, dan sistem komunikasi, yang jadi bekal penting untuk saya lanjut ke dunia teknik dan pengembangan teknologi."
     },
     {
         "university": "Politeknik Negeri Semarang",
